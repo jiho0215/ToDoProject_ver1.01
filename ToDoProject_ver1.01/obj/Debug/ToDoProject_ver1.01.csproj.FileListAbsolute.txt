@@ -1,0 +1,8 @@
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\bin\Debug\ToDoProject_ver1.01.exe
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\bin\Debug\ToDoProject_ver1.01.pdb
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1.01.csprojResolveAssemblyReference.cache
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1._01.Form1.resources
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1._01.Properties.Resources.resources
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1.01.csproj.GenerateResource.Cache
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1.01.exe
+c:\users\malp0080\documents\visual studio 2015\Projects\ToDoProject_ver1.01\ToDoProject_ver1.01\obj\Debug\ToDoProject_ver1.01.pdb
